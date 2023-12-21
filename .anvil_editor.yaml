@@ -5,6 +5,7 @@ unique_ids:
   modules: {}
   server_modules:
     ServerModule1: '1703147563243311453581200.7717'
+    ServerModule2: '1703170624598619510532934.4033'
   assets:
     standard-page.html: JKS6OJSFXTR7RBIV3Z4N74ALPVHGEHFM
     theme.css: EKGQLLJRXA2J3B5GZ6PPS5TISJSK7L2W

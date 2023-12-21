@@ -11,13 +11,13 @@ components:
   - name: label_4
     properties: {text: Feedback Form}
     type: Label
-    layout_properties: {grid_position: 'AWMLQX,DOMIQM'}
+    layout_properties: {grid_position: 'STSOZW,SUFWIW'}
   - name: label_1
     properties: {text: 'Name
 
         '}
     type: Label
-    layout_properties: {grid_position: 'BLHRMR,SCHWKK'}
+    layout_properties: {grid_position: 'PWKOVB,EZPXEA'}
   - name: name_box
     properties: {}
     type: TextBox
