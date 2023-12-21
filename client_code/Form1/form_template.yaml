@@ -30,6 +30,7 @@ components:
     properties: {}
     type: TextBox
     layout_properties: {grid_position: 'USKPYF,JJWTLY'}
+    event_bindings: {pressed_enter: email_box_pressed_enter}
   - name: label_3
     properties: {text: Feedback}
     type: Label
@@ -38,6 +39,7 @@ components:
     properties: {height: 157}
     type: TextArea
     layout_properties: {grid_position: 'DAWBFB,YISWEA'}
+    event_bindings: {change: feedback_box_change}
   - name: button_1
     properties: {text: 'Submit
 

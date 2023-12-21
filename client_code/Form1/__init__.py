@@ -32,3 +32,11 @@ class Form1(Form1Template):
     Notification("Feedback submitted!").show()
     # Call your 'clear_inputs' method to clear the boxes
     self.clear_inputs()
+
+  def feedback_box_change(self, **event_args):
+    """This method is called when the text in this text area is edited"""
+    pass
+
+  def email_box_pressed_enter(self, **event_args):
+    """This method is called when the user presses Enter in this text box"""
+    pass
